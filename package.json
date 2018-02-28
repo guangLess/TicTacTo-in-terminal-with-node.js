@@ -1,0 +1,18 @@
+{
+  "name": "guang",
+  "version": "1.0.0",
+  "description": "code test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "author": "guang",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "sinon": "^4.3.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  }
+}
